@@ -1,0 +1,56 @@
+%start P
+
+%token ID
+%token PRINT
+%token NUM
+
+%token COMMA
+%token LPAR
+%token RPAR
+%token ASN
+%token PLUS
+%token SEMI
+%token EOF
+
+%%
+
+
+P   : C 
+    ;
+
+C   : CE
+    ;
+	
+CE  : S SP
+	;
+	
+SP  : SEMI S SP 
+    | 
+    ;
+
+S   : ID ASN E 
+    | PRINT LPAR L RPAR 
+	;
+   
+E   : T EP 
+    ;
+
+EP  : PLUS T 
+    | 
+	;
+
+L   : E LP ;   
+   
+LP  : COMMA E LP 
+    | 
+	;
+
+T   : ID
+    | NUM
+    | LPAR CE COMMA E RPAR 
+    | EOF
+    ; 
+
+
+ 
+  

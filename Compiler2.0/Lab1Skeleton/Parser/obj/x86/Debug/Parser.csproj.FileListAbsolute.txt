@@ -1,0 +1,8 @@
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Parser\bin\Debug\Parser.exe
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Parser\bin\Debug\Parser.pdb
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Parser\bin\Debug\Lexer.exe
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Parser\bin\Debug\Lexer.pdb
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Parser\obj\x86\Debug\Parser.csprojAssemblyReference.cache
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Parser\obj\x86\Debug\Parser.csproj.CopyComplete
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Parser\obj\x86\Debug\Parser.exe
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Parser\obj\x86\Debug\Parser.pdb

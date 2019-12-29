@@ -1,0 +1,5 @@
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Lexer\bin\Debug\Lexer.exe
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Lexer\bin\Debug\Lexer.pdb
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Lexer\obj\x86\Debug\Lexer.csprojAssemblyReference.cache
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Lexer\obj\x86\Debug\Lexer.exe
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Lexer\obj\x86\Debug\Lexer.pdb

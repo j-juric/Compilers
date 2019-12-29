@@ -1,0 +1,12 @@
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\bin\Debug\Tests.dll
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\bin\Debug\Tests.pdb
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\bin\Debug\Lexer.exe
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\bin\Debug\nunit.framework.dll
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\bin\Debug\Parser.exe
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\bin\Debug\Lexer.pdb
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\bin\Debug\Parser.pdb
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\bin\Debug\nunit.framework.xml
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\obj\Debug\Tests.csproj.CopyComplete
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\obj\Debug\Tests.dll
+F:\Fax\IVgodina\Compilers\Compiler2.0\Lab1Skeleton\Tests\obj\Debug\Tests.pdb
